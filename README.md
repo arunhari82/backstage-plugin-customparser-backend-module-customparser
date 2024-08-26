@@ -6,7 +6,7 @@ This plugin helps to use any other fileformat instead of Catalog-info.yaml. This
 
 This plugin module extends `catalogModelExtensionPoint` and register a customParser `backstage-plugin-customparser-backend-module-customer/src/lib/customEntityParser.ts`
 
-This show cases the following from Backstage and how to acheive this in RHDH.
+This show cases the following from Backstage and how to achieve this in RHDH.
 https://backstage.io/docs/features/software-catalog/external-integrations/#supporting-different-metadata-file-formats
  
 
