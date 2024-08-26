@@ -1,4 +1,4 @@
-# @janus-idp/backstage-plugin-customparser-backend-module-customparser
+# @anattama/backstage-plugin-customparser-backend-module-customparser
 
 The customparser backend module for the customparser plugin.
 
