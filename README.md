@@ -46,7 +46,7 @@ This plugin module extends `catalogModelExtensionPoint` and register a customPar
 ```
 
 # format of the custom file in repo instead of catalog-info.yaml 
-## note : This filename should match  <<Custom file name instead of catalog-info.yaml>> in the app-config.yaml configuration.
+## note : This filename should match  << Custom file name instead of catalog-info.yaml >> in the app-config.yaml configuration.
 
 id : "sampleservice"
 type: "service"
