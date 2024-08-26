@@ -1,0 +1,6 @@
+node_modules
+dist
+dist-dynamic
+dist-types
+*.tgz
+npminfo.json
